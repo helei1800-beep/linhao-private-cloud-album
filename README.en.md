@@ -46,7 +46,7 @@ Free to use. **No splash ads, no pop-ups, no renewal nagging.** We don't sell st
 
 ## FAQ
 
-See [`docs/FAQ.md`](docs/FAQ.md) (mirrored from the official FAQ page; Chinese).
+See [`FAQ.md`](FAQ.md) (mirrored from the official FAQ page; Chinese).
 
 ## Company
 
